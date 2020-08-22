@@ -11,6 +11,7 @@ This training will teach you how to be an efficient MLMBSC Conductor. You will l
 ### Why 
 ### How
 
+![Logo](/pictures/goldberg.jpg)
 ## Organize (but don t deliver)
 ### Why
 ### How
