@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Blogging Like a Hacker
 ---
 
 # Welcom to the conductor training
 ![Logo](/pictures/logo1.png)
-[[pictures/logo1.png]]
-<img  class="mount" src="pictures/logo1.png" alt="mounted">
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
