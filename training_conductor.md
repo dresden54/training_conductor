@@ -24,7 +24,3 @@ This training will teach you how to be an efficient MLMBSC Conductor. You will l
 * Ensure that minimal actions/minutes are done during these meetings. You master the art of delivering empty memo/minutes to the management to validate why MLMBSC was needed
 * Invite other MLMBSC members in these meetings. It will allow them to justify their salary and have people present. Not only will it make the meeting impressive for your superior (we were 30 people working on it) but it will also allow other MLMBSC members in your organisation to slack off for a few hours.
 
-* Bad cop
-* Item 2
-  * Item 2a
-  * Item 2b
