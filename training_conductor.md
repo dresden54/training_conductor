@@ -3,8 +3,8 @@ layout: default
 ---
 
 # Welcom to the conductor training
-![Logo](/pictures/logo1.png)
-* Item 1
+![Logo](/pictures/conductor.jpg)
+* Bad cop
 * Item 2
   * Item 2a
   * Item 2b
