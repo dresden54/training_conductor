@@ -4,4 +4,7 @@ title: Trainings
 ---
 
 # Welcome to the training site
-![Logo](/pictures/gtraining.jpg)
+![Logo](/pictures/training.jpg)
+
+## Conductor Training
+[conductor training](training_conductor.md)
