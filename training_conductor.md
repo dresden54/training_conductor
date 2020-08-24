@@ -24,3 +24,17 @@ This training will teach you how to be an efficient MLMBSC Conductor. You will l
 * Ensure that minimal actions/minutes are done during these meetings. You master the art of delivering empty memo/minutes to the management to validate why MLMBSC was needed
 * Invite other MLMBSC members in these meetings. It will allow them to justify their salary and have people present. Not only will it make the meeting impressive for your superior (we were 30 people working on it) but it will also allow other MLMBSC members in your organisation to slack off for a few hours.
 
+![Logo](/pictures/goldberg.jpg)
+## Project (confusing) graph
+### Why
+* Managment need to know that eveything is going smooth 
+
+### How
+* bad scale
+* Colors
+  * Your company probably has some kind of corporate color palette which will be composed of 2 or 3 main colors with small variations around them with 5 small variations of the main colors. Use this to deliver unreadable graphs like
+![Logo](/pictures/graph_color_palet.png)
+  * For people not working on big company where money is spend on branding you may think it's not possible to be that stupid? Let me share with you this real world example of a company which has a main yellow color as part of their brand. You should really try a big fat company....you will be shocked how budgets could be wasted... hopefully for MLMBSC ;)
+![Logo](/pictures/real_bad_graph_color.png)
+  * Don't save the planet and print it...in black and white. Do that before the meeting and look like you just discover it too and blame your company "Save the planet" program with "What ? the remove color from printer with the new DO NOT PRINT program...shit...i will send you the original by email after the meeting"
+![Logo](/pictures/black_white_graph.png)
