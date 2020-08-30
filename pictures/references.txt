@@ -1,11 +1,14 @@
 try to use first https://pixabay.com/
 
-https://pixabay.com/photos/maze-graphic-render-labyrinth-2264/
-https://pixabay.com/photos/play-figures-green-blue-play-wood-4541731/
-https://pixabay.com/photos/conductor-human-gull-cloud-4373022/
+https://pixabay.com/images/id-4541731/ <> hate_focus
+https://pixabay.com/images/id-4373022/ <>conductor
 http://www.publicdomainfiles.com/show_file.php?id=14026049418104 <> goldberg
-https://pixabay.com/fr/photos/livres-pages-histoire-histoires-1245690/ <> training
-https://pixabay.com/fr/photos/pompier-de-sauvetage-b%C3%A9b%C3%A9-tenue-2098461/ <> fire-fighter
+https://pixabay.com/images/id-1245690/ <> training
+https://pixabay.com/images/id-2098461/ <> fire_fighter
 https://venngage-wordpress.s3.amazonaws.com/uploads/2015/10/social-platforms-2015-report-card-snapchat.png <> 
-https://pixabay.com/fr/photos/pizza-alimentaire-%C3%A0-emporter-bo%C3%AEte-1702652/ <> pizza
+https://pixabay.com/images/id-1702652/ <> pizza
 https://pixabay.com/images/id-1276775/ <> basic_training
+homemade <> work_produce
+homemade <> time_spent
+https://pixabay.com/images/id-4596071/ <> trading
+https://pixabay.com/images/id-146329/ <> people
