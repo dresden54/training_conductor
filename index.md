@@ -7,7 +7,7 @@ title: Trainings
 ![Logo](/pictures/training.jpg)
 
 ## Basic Training
-[conductor training](training_mlmbsc.md)
+[basic training](training_mlmbsc.md)
 
 ## Conductor Training
 [conductor training](training_conductor.md)
