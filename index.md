@@ -14,3 +14,9 @@ title: Trainings
 
 ## Facilitator Training
 [facilitator training](training_facilitator.md)
+
+## Administrator Training
+[administrator training](training_administrator.md)
+
+## Evangelist Training
+[Evsngelist training](training_evangelist.md)
