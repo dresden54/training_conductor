@@ -43,6 +43,7 @@ You can screenshot the previous line for expense purposes...and then go do your 
 Roast the marshmallow and use a spaghetti to put them on top of cappuccino like the picture below
 ![Logo](/pictures/marshmallow_cofe.jpg)
 Save the rest of spaghetti for dinner. You can cook some [good Bolognese](https://foodal.com/recipes/pasta/perfect-spaghetti/) This is not an affiliate link or a sponsor of any kind for foodal. I have high respect for you  and would not do that (and they refuse to give me money to promote them...).
+![Logo](/pictures/bolognese.jpg)
  
 ## Project organisation
 ![Logo](/pictures/work_produce_2.png)
