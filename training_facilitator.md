@@ -4,7 +4,7 @@ layout: default
  
 # Welcome to the facilitator training
 ![Logo](/pictures/conductor.jpg)
-This training will teach you how to be an efficient MLMBSC Conductor. You will learn how this ungrateful role plays out in MLMBSC Framework. Nobody will like you but you don't care since you can slack off 95% of the time when others are sweating their ass to deliver the project for which you will get all the awards. 
+This training will teach you how to be an efficient MLMBSC Facilitator. This is one of the best role in MLMBSC because you are the nice guy that everybody like and still slack off. This training will teach you how to be the nice friend of the team but still be efficent enough to deliver the project without doing anything on your side except push the people to work to their death. 
  
 ![Logo](/pictures/fire_fighter.jpg)
 ## Good cop

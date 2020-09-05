@@ -38,3 +38,10 @@ This training will teach you how to be an efficient MLMBSC Conductor. You will l
 ![Logo](/pictures/real_bad_graph_color.png)
   * Don't save the planet and print it...in black and white. Do that before the meeting and look like you just discover it too and blame your company "Save the planet" program with "What ? the remove color from printer with the new DO NOT PRINT program...shit...i will send you the original by email after the meeting"
 ![Logo](/pictures/black_white_graph.png)
+
+
+# Wrap up
+You are now a certified MLMBSC Conductor ! Congratulation. Your parents will be proud.
+Go enjoy your free time while being paid during endless meeting. 
+Before you go don't forget to rush to linkdin to post this life achivment award because the rest of the world need to know that you manage to do it. In term of recognition this certification is often compare to the "Nobel price" or the "Medal of honor".
+![Logo](/pictures/certifiacte_conductor.png)
