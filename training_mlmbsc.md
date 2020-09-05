@@ -42,16 +42,19 @@ You can screenshot the previous line for expense purposes...and then go do your 
  
 Roast the marshmallow and use a spaghetti to put them on top of cappuccino like the picture below
 ![Logo](/pictures/marshmallow_cofe.jpg)
-Save the rest of spaghetti for dinner. You can cook some [good Bolognese](https://foodal.com/recipes/pasta/perfect-spaghetti/) This is not an affiliate link or a sponsor of any kind for foodal. I have high respect for you  and would not do that (and they refuse to give me money to promote them...).
+Then drink it while watching a movie. Don't worry there is 90min reserved for that in this training. Come back here once you finish your movie.
+
+What about the remaining spaghetti ? Save them for dinner. If you buy all we suggested you can cook some [good Bolognese](https://foodal.com/recipes/pasta/perfect-spaghetti/) This is not an affiliate link or a sponsor of any kind for foodal. I have high respect for you  and would not do that (and they refuse to give me money to promote them...).
 ![Logo](/pictures/bolognese.jpg)
  
 ## Project organisation
-![Logo](/pictures/work_produce_2.png)
+The following section will take about how to organise your project and the team working on it. It's very important for you to preperly organise the team to maximize your slacking time but still deliver the project.
  
 ### Team Organisation
  
 #### Team size
 You need to keep the size of the team to a minimum to keep better control on the ressources but not too small since there are already almost 3 useless ressources due to the framework. We suggest a team of 6 or 7 people with at least one MLMBSC Conductor and one MLMBSC Facilitator. The MLMBSC Evangelist can join several teams and is not attached to a specific project.
+![Logo](/pictures/work_produce_2.png)
  
 If the project is too big you need to scale horizontally by adding more teams. This will allow more MLMBSC members to join and more slacking for our big family.
  
