@@ -20,6 +20,9 @@ If the project is too big you need to scale horizontally by adding more teams. T
  
 ### Team structure
 MLMBSC members in the team do not really contribute to anything and are just here to slack off and get the awards. The rest of the team will do the work... In the "rest of the team" you may have a high performance ressource. It is very important to identify such resources since they will be very valuable and probably contribute to 80% of the "rest of the team work". It is an established fact [https://en.wikipedia.org/wiki/Pareto_principle] so don't worry and just use that to slack off more. 
+![Logo](/pictures/rowing_2.png)
+
 It is possible that this high performer has a bad attitude and consider a "high performer with bad attitude" [https://dandoadvisors.com/brilliant-jerks/]. You need to understand that the only reason for such an attitude is that the resource is just pissed off not to be able to do what he likes (probably development) but spend his time in useless meetings or explaining how to "hello world" to other team members. It is very important that you make sure that the high performer member of the team can focus on work ! 
 ![Logo](/pictures/atlas.jpg)
+
 Do not bother him with the fake meeting (they are only for you and MLMBSC to slack off) and prevent other team members from bothering him.
