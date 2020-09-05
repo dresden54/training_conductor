@@ -53,5 +53,5 @@ Don't worry too much you can still save your ass and more importantly MLMBSC (No
 # Wrap up
 You are now a certified MLMBSC Conductor ! Congratulations. Your parents will be proud.
 Go enjoy your free time while being paid during endless meetings. 
-Before you go, don't forget to rush to Linkedin to post this life achievement award because the rest of the world needs to know that you manage to do it. In term of recognition this certification is often compared to the "Nobel prize" or the "Medal of honor".
+Before you go, don't forget to rush to Linkedin to post this life achievement award because the rest of the world needs to know that you manage to do it. In term of recognition this certification is often compared to the "Nobel prize".
 ![Logo](/pictures/certifiacte_conductor.png)

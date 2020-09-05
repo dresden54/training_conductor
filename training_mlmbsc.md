@@ -66,3 +66,9 @@ It is possible that this high performer has a bad attitude and consider a [high 
 ![Logo](/pictures/atlas.jpg)
  
 Do not bother him with the fake meeting (they are only for you and MLMBSC to slack off) and prevent other team members from bothering him.
+
+# Wrap up
+Congratulation ! you made it and are now a proud memmbers of the best MLM of 2021!
+We hope you enjoy your movie and spaghetti.
+Before you go, don't forget to rush to Linkedin to post this life achievement award because the rest of the world needs to know that you manage to do it. In term of recognition this certification is often compared to the "Medal of honor".
+![Logo](/pictures/certifiacte_conductor.png)
