@@ -6,7 +6,7 @@ layout: default
 ![Logo](/pictures/basic_training.jpg)
 This training will teach you the basic of MLMBSC methodology.
  
-So you decided it was time for you to enjoy a free careless life of slacking. It's fine to slack off... even ants do it [https://www.sciencealert.com/many-worker-ants-are-actually-lazy-slackers-but-there-s-a-good-reason-for-that]
+So you decided it was time for you to enjoy a free careless life of slacking. It's fine to slack off... even ants do it (https://www.sciencealert.com/many-worker-ants-are-actually-lazy-slackers-but-there-s-a-good-reason-for-that)
  
  
 # Training prerequisite
@@ -41,8 +41,8 @@ You can screenshot the previous line for expense purposes...and then go do your 
  
  
 Roast the marshmallow and use a spaghetti to put them on top of cappuccino like the picture below
-![Logo](/pictures/marshmallow_cofe.png)
-Save the rest of spaghetti for dinner. You can cook some good Bolognese following [https://foodal.com/recipes/pasta/perfect-spaghetti/]This is not an affiliate link or a sponsor of any kind for foodal. I have high respect for you  and would not do that (and they refuse to give me money to promote them...).
+![Logo](/pictures/marshmallow_cofe.jpg)
+Save the rest of spaghetti for dinner. You can cook some good Bolognese following [https://foodal.com/recipes/pasta/perfect-spaghetti/] This is not an affiliate link or a sponsor of any kind for foodal. I have high respect for you  and would not do that (and they refuse to give me money to promote them...).
  
 ## Project organisation
 ![Logo](/pictures/work_produce_2.png)
