@@ -3,10 +3,10 @@ layout: default
 ---
  
 # Welcome to the facilitator training
-![Logo](/pictures/conductor.jpg)
+![Logo](/pictures/fire_fighter.jpg)
 This training will teach you how to be an efficient MLMBSC Facilitator. This is one of the best role in MLMBSC because you are the nice guy that everybody like and still slack off. This training will teach you how to be the nice friend of the team but still be efficent enough to deliver the project without doing anything on your side except push the people to work to their death. 
  
-![Logo](/pictures/fire_fighter.jpg)
+
 ## Good cop
 ### Why 
 * Several studies show that people will form strong bonds together when sharing a common enemy and thus will work better together [https://www.psychologytoday.com/us/blog/words-matter/201812/do-we-need-common-enemy].
