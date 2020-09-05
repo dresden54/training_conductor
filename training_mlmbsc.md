@@ -6,7 +6,7 @@ layout: default
 ![Logo](/pictures/basic_training.jpg)
 This training will teach you the basic of MLMBSC methodology.
  
-So you decided it was time for you to enjoy a free careless life of slacking. It's fine to slack off... even ants do it (https://www.sciencealert.com/many-worker-ants-are-actually-lazy-slackers-but-there-s-a-good-reason-for-that)
+So you decided it was time for you to enjoy a free careless life of slacking. It's fine to slack off... even ants do it https://www.sciencealert.com/many-worker-ants-are-actually-lazy-slackers-but-there-s-a-good-reason-for-that
  
  
 # Training prerequisite
