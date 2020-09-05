@@ -16,3 +16,12 @@ This training will teach you how to be an efficient MLMBSC Facilitator. This is 
 * Food !! and drinks ! Developers are simple people and you will squeeze them more with this simple trick. It's an old recipe [https://www.forbes.com/sites/quora/2018/05/24/why-do-companies-like-google-and-facebook-offer-free-food/#405d4b19282b] but quite efficient. Even if you can not expense them it is worth using your own fund to buy some pizza to ensure employee stay longer and finish the project....It is in your interested to have the project deliver so you can do another one after and continue to slack off(You slalary - pizza cost > no salary)
 ![Logo](/pictures/pizza.jpg)
 * Love ! You need to be the nice guy so that people like you and work their ass up for you. DEVs working in a 10k employee making billions every year will not feel as engaged as if they have a face in front of them. If you manage to establish a connection to them you will have them work to death. You should have a connection strong enough to motivate them to rush Area51 [https://en.wikipedia.org/wiki/Storm_Area_51]. "Do you think you could try to finish XXX tonight ? It's really important for YYY to be able to do ZZZ". 
+ 
+# FAQ
+## How to motive someone to work more ?
+We already discuss the importance of food.... The more they stay at the office the more chance of them working. In addition you can find a lot of methods to make people work. Just go on amazon and look for "psychology manipulation" and buy the book with more stars.
+ 
+## How to motive someone to work more ?
+![Logo](/pictures/meme_read.jpg)
+You Motherfu*****! 
+you can find a lot of methods to make people work. Just go on ~~amazon~~ youtube and look for "psychology manipulation" and ~~buy the book with most stars~~ watch the video with the most likes.
