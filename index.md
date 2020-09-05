@@ -19,4 +19,4 @@ title: Trainings
 [administrator training](training_administrator.md)
 
 ## Evangelist Training
-[Evsngelist training](training_evangelist.md)
+[Evangelist training](training_evangelist.md)
