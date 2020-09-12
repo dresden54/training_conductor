@@ -17,8 +17,8 @@ This training will teach you how to be an efficient MLMBSC Conductor. You will l
 ## Organize (but don t deliver)
 ### Why
 * Meetings are fun and a good way to spend time before going /lunch/home. Don't forget to invite other MLMBSC members... We all enjoy doing nothing.
-* A calendar full is a good signal sent to your management. Don’t forget to put your calendar in public so everybody sees how busy your job is.
 * Demo meetings allow you to demo the work done by others to the management making you like a productive employee. There is no shame in stealing the work of others. You are the spiritual reincarnation of Thomas Edison.
+* A calendar full is a good signal sent to your management. Don’t forget to put your calendar in public so everybody sees how busy your job is. 
  
 ### How
 * Ensure that minimal actions/minutes are done during these meetings. You master the art of delivering empty memo/minutes to the management to validate why MLMBSC was needed and how well the project is on track

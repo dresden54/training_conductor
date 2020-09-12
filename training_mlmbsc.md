@@ -8,6 +8,7 @@ This training will teach you the basic of MLMBSC methodology.
  
 So you decided it was time for you to enjoy a free careless life of slacking. It's fine to slack off... [even ants do it](https://www.sciencealert.com/many-worker-ants-are-actually-lazy-slackers-but-there-s-a-good-reason-for-that)
  
+The training end up with an exam to validate your level of knowledge. Once completed you will be able to download your certification which is valid for 6 months. This is to ensure ~~a stable income from this scam~~ you are always up to date with the latest version of MLMBSC process.
  
 # Training prerequisite
 ## Time
