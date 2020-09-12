@@ -65,12 +65,14 @@ MLMBSC members in the team do not really contribute to anything and are just her
  
 It is possible that this high performer has a bad attitude and consider a [high performer with bad attitude](https://dandoadvisors.com/brilliant-jerks/). You need to understand that the only reason for such an attitude is that the resource is just pissed off not to be able to do what he likes (probably development) but spend his time in useless meetings or explaining how to "hello world" to other team members. It is very important that you make sure that the high performer member of the team can focus on work ! 
 ![Logo](/pictures/atlas.jpg)
+[![](/pictures/atlas.jpg)](/pictures/atlas.jpg)
  
 Do not bother him with the fake meeting (they are only for you and MLMBSC to slack off) and prevent other team members from bothering him.
 
 ### Time organisation
 One main goad of MLMBSC is to enjoy some nice free time to slack off and do trading to make some real money.One way to create free time is meetings. Then you can have your meeting in background and trade stocks on your phone
 ![Logo](/pictures/trading.jpg) This training is only focusing on MLMBSC. For traiding advice we suggest you follow [WSB](https://www.reddit.com/r/wallstreetbets/)
+
 The MLMBSC Conductor will take care of putting lots of meetings for MLMBSC members so we can all enjoy some free time. You just move a button 2 pixels for you MLMBSC task of the current iteration ? Let's do 1 week of "Iteration review and preparation" to celebrate. A good MLMBSC conductor will ensure you have 1 "meeting week" at least every 2 months between project iterations
 ![Logo](/pictures/calendar.jpg)
 
