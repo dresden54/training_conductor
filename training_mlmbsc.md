@@ -55,7 +55,7 @@ The following section will take about how to organise your project and the team 
  
 #### Team size
 You need to keep the size of the team to a minimum to keep better control on the ressources but not too small since there are already almost 3 useless ressources due to the framework. We suggest a team of 6 or 7 people with at least one MLMBSC Conductor and one MLMBSC Facilitator. The MLMBSC Evangelist can join several teams and is not attached to a specific project.
-![Logo](/pictures/work_produce_2.png)
+[![](/trainings/pictures/work_produce_2.png)](/trainings/pictures/work_produce_2.png)
  
 If the project is too big you need to scale horizontally by adding more teams. This will allow more MLMBSC members to join and more slacking for our big family.
  
@@ -65,7 +65,6 @@ MLMBSC members in the team do not really contribute to anything and are just her
  
 It is possible that this high performer has a bad attitude and consider a [high performer with bad attitude](https://dandoadvisors.com/brilliant-jerks/). You need to understand that the only reason for such an attitude is that the resource is just pissed off not to be able to do what he likes (probably development) but spend his time in useless meetings or explaining how to "hello world" to other team members. It is very important that you make sure that the high performer member of the team can focus on work ! 
 ![Logo](/pictures/atlas.jpg)
-[![](/trainings/pictures/atlas.jpg)](/trainings/pictures/atlas.jpg)
 
 Do not bother him with the fake meeting (they are only for you and MLMBSC to slack off) and prevent other team members from bothering him.
 
@@ -74,7 +73,7 @@ One main goad of MLMBSC is to enjoy some nice free time to slack off and do trad
 ![Logo](/pictures/trading.jpg) This training is only focusing on MLMBSC. For traiding advice we suggest you follow [WSB](https://www.reddit.com/r/wallstreetbets/)
 
 The MLMBSC Conductor will take care of putting lots of meetings for MLMBSC members so we can all enjoy some free time. You just move a button 2 pixels for you MLMBSC task of the current iteration ? Let's do 1 week of "Iteration review and preparation" to celebrate. A good MLMBSC conductor will ensure you have 1 "meeting week" at least every 2 months between project iterations
-![Logo](/pictures/calendar.jpg)
+[![](/trainings/pictures/calendar.jpg)](/trainings/pictures/calendar.jpg)
 
 # Wrap up
 Congratulation ! you made it and are now a proud memmbers of the best MLM of 2021!
