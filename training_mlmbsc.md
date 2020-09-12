@@ -67,6 +67,10 @@ It is possible that this high performer has a bad attitude and consider a [high 
  
 Do not bother him with the fake meeting (they are only for you and MLMBSC to slack off) and prevent other team members from bothering him.
 
+### Time organisation
+One main goad of MLMBSC is to enjoy some nice free time to slack off and do trading to make some real money.One way to create free time is meetings. The MLMBSC Conductor will take care of putting lots of meetings for MLMBSC members so we can all enjoy some free time. You just move a button 2 pixels for you MLMBSC task of the current iteration ? Let's do 1 week of "Iteration review and preparation" to celebrate. A good MLMBSC conductor will ensure you have 1 "meeting week" at least every 2 months between project iterations
+![Logo](/pictures/calendar.jpg)
+
 # Wrap up
 Congratulation ! you made it and are now a proud memmbers of the best MLM of 2021!
 We hope you enjoy your movie and spaghetti.
