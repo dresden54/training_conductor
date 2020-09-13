@@ -9,6 +9,7 @@ Will that add too much work to the Conductor ? No because X + 0 = X... but offic
 In case the project fails for any reason - This should not happen - you need to put some of the blame on the bad MLMBSC implementation. It will uncorrelate MLMBSC of the failure to prevent any brand damage. 
  
 It is still possible that you end up in a big fat company (fat finance company that decided to start doing IT because they are afraid of google wallet) that invest massively and thus go with MLMBSC without regards to cost and create this position. If that's the case don't worry and just go with the flow
+![Logo](/pictures/surfer.jpg)
  
 You are like Batman when he sees the bat signal....as soon as you see a meeting related to MLMBSC you pop out of nowhere to see if the MLMBSC methodology is properly followed.
 ![Logo](/pictures/batman.jpg)
